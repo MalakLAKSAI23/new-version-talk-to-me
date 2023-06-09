@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410306584240",
+    "project_id": "talktome-dc428",
+    "storage_bucket": "talktome-dc428.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410306584240:android:cd31fb81d6c651eb37e575",
+        "android_client_info": {
+          "package_name": "com.example.talktome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJTXujpSejkZ2rLCW_P8TTT3EDL3fr1HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
